@@ -1,0 +1,25 @@
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+*.stackdump
+[Dd]esktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+*.lnk
+
+# General
+*.log
+*.tmp
+*.temp
+*.swp
+*.bak
+*.orig
+.DS_Store
+.env
+*.env
